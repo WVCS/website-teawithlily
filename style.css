@@ -3,14 +3,14 @@ body {
 }
 h2{
   color: #F4F3EE;
-  font-size: 100%;
+  font-size: 400%;
   letter-spcaing: 5px;
   padding: 50px;
 }
 u1{
   list-style-type: none;
   background-color: #8A817C;
-  width: 25%; 
+  width: 100%; 
   overflow: hidden;
   position: fixed;
   text-align: center;
