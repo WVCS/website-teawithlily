@@ -1,3 +1,5 @@
+lines (33 sloc)  466 Bytes
+   
 body {
   background-color: #BCB8B1;
 }
@@ -31,4 +33,12 @@ li a:hover {
   background-color: #E0AFA0;
   color: #463F3A;
 }
-
+img{
+  height: 600px; 
+  position: center;
+}
+center {
+  font-size: 65px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: white; 
+}
